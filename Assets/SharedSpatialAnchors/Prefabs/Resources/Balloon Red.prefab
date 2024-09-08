@@ -17,6 +17,8 @@ GameObject:
   - component: {fileID: 2988318991867791659}
   - component: {fileID: 6468176999813937823}
   - component: {fileID: -3517507286853424155}
+  - component: {fileID: -5115494856067706158}
+  - component: {fileID: 1360650989131905665}
   m_Layer: 0
   m_Name: Balloon Red
   m_TagString: Untagged
@@ -176,6 +178,7 @@ MonoBehaviour:
   observableSearch: 2
   ObservedComponents:
   - {fileID: 6468176999813937823}
+  - {fileID: -3517507286853424155}
   sceneViewId: 0
   InstantiationId: 0
   isRuntimeInstantiated: 0
@@ -211,3 +214,30 @@ MonoBehaviour:
   m_SynchronizeAngularVelocity: 1
   m_TeleportEnabled: 1
   m_TeleportIfDistanceGreaterThan: 3
+--- !u!114 &-5115494856067706158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 532747755526383149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bedaac29a943f844a7074b53c8bdf9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _pointable: {fileID: 6991219106398992493, guid: 74ab2d607c80c3f42843575b62f2a228, type: 3}
+  _rigidbody: {fileID: 5345490035636977913}
+  _scaleMassWithSize: 1
+--- !u!114 &1360650989131905665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 532747755526383149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b78b8c65360141f40aaf654da71854f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

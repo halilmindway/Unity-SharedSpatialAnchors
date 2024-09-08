@@ -1,3 +1,4 @@
+using Photon.Pun;
 using UnityEngine;
 
 namespace _Project.Scripts
@@ -19,10 +20,12 @@ namespace _Project.Scripts
         [SerializeField] private float blastForce = 500f;
 
         private Rigidbody rb;
+        private PhotonView _photonView;
 
         private void Start()
         {
             rb = GetComponent<Rigidbody>();
+            _photonView = GetComponent<PhotonView>();
         }
 
 
@@ -70,7 +73,16 @@ namespace _Project.Scripts
             GameManager.Instance.RemoveBalloonFromList(this);
             // popParticle.Play();
             GetComponent<Renderer>().enabled = false;
-            Destroy(gameObject, 1f);
+            //PhotonNetwork.Destroy(gameObject);
+        }
+
+        [PunRPC]
+        void PopBalloon()
+        {
+            if (_photonView.IsMine)
+            {
+                PhotonNetwork.Destroy(gameObject);
+            }
         }
     }
 }
