@@ -190,6 +190,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -575,6 +579,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -652,6 +660,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -752,6 +764,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -946,6 +962,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1513,6 +1533,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2646,6 +2670,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2879,6 +2907,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2987,6 +3019,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3380,6 +3416,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3794,6 +3834,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3902,6 +3946,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4093,6 +4141,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4395,6 +4447,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4503,6 +4559,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4703,6 +4763,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4964,6 +5028,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5217,6 +5285,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5416,6 +5488,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5983,6 +6059,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6491,7 +6571,7 @@ Transform:
   m_GameObject: {fileID: 784557371}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.117188856, y: 1.5869019, z: -1.7645879}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6555,7 +6635,7 @@ Transform:
   - {fileID: 1900489875}
   - {fileID: 14976983}
   - {fileID: 1898464739}
-  m_Father: {fileID: 1538480422}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &785982585
 PrefabInstance:
@@ -6624,6 +6704,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7314,6 +7398,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7919,7 +8007,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &941912329
 Transform:
   m_ObjectHideFlags: 0
@@ -8058,6 +8146,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 7360516344752388466, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: _defaultInteractable
+      value: 
+      objectReference: {fileID: 5436381292688830215}
+    - target: {fileID: 7360516344752388466, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: _timeOutInteractable
+      value: 
+      objectReference: {fileID: 5436381292688830215}
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (13)
@@ -8139,6 +8235,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8245,9 +8345,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 7360516344752388466, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: _snapPoseTransform
+      value: 
+      objectReference: {fileID: 5436381292688830217}
+    - target: {fileID: 7360516344752388466, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: _defaultInteractable
+      value: 
+      objectReference: {fileID: 5436381292688830215}
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8448,6 +8560,7 @@ Transform:
   m_Children:
   - {fileID: 1495372652}
   - {fileID: 689308931}
+  - {fileID: 5436381292688830216}
   m_Father: {fileID: 310383196}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &1006834918
@@ -8535,6 +8648,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 7360516344752388466, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: _defaultInteractable
+      value: 
+      objectReference: {fileID: 5436381292688830215}
+    - target: {fileID: 7360516344752388466, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: _timeOutInteractable
+      value: 
+      objectReference: {fileID: 5436381292688830215}
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (1)
@@ -8647,6 +8768,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9344,6 +9469,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9452,6 +9581,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9680,6 +9813,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10183,6 +10320,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10510,6 +10651,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10610,6 +10755,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10709,6 +10858,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10837,6 +10990,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 7360516344752388466, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: _defaultInteractable
+      value: 
+      objectReference: {fileID: 5436381292688830215}
+    - target: {fileID: 7360516344752388466, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: _timeOutInteractable
+      value: 
+      objectReference: {fileID: 5436381292688830215}
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (20)
@@ -10918,6 +11079,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11205,6 +11370,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11282,6 +11451,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11424,6 +11597,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11735,6 +11912,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12155,6 +12336,139 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1495372652}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1383171057
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1383171062}
+  - component: {fileID: 1383171061}
+  - component: {fileID: 1383171060}
+  - component: {fileID: 1383171059}
+  - component: {fileID: 1383171058}
+  m_Layer: 0
+  m_Name: Cube
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!54 &1383171058
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1383171057}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &1383171059
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1383171057}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 13.835526, y: 1, z: 7.6814384}
+  m_Center: {x: 0.15073442, y: 0, z: 0.14876556}
+--- !u!23 &1383171060
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1383171057}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1383171061
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1383171057}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1383171062
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1383171057}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1391166780
 GameObject:
@@ -12666,6 +12980,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12775,6 +13093,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12883,6 +13205,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13287,11 +13613,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!4 &1538480422 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1782759232252979430, guid: 60fa00281e83b294583adc31df520fbe, type: 3}
-  m_PrefabInstance: {fileID: 2982998299393685461}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1540739202
 GameObject:
   m_ObjectHideFlags: 0
@@ -13390,6 +13711,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13530,6 +13855,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13872,6 +14201,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14158,6 +14491,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14576,6 +14913,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15089,6 +15430,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16180,6 +16525,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16311,6 +16660,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16410,6 +16763,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16693,6 +17050,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16792,6 +17153,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16955,6 +17320,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17032,6 +17401,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17253,6 +17626,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 7360516344752388466, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: _defaultInteractable
+      value: 
+      objectReference: {fileID: 5436381292688830215}
+    - target: {fileID: 7360516344752388466, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: _timeOutInteractable
+      value: 
+      objectReference: {fileID: 5436381292688830215}
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (6)
@@ -17765,6 +18146,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18216,6 +18601,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueDartPrefab (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18429,6 +18818,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18911,6 +19304,10 @@ PrefabInstance:
     - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
       propertyPath: m_Name
       value: BlueDartPrefab (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032188201340484035, guid: d43afa236baafdd4ba969dfed4eabbb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19486,9 +19883,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 6565977945408169201, guid: 60fa00281e83b294583adc31df520fbe, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2136662128}
-    - targetCorrespondingSourceObject: {fileID: 1782759232252979430, guid: 60fa00281e83b294583adc31df520fbe, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 784557372}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 5414912244175157427, guid: 60fa00281e83b294583adc31df520fbe, type: 3}
       insertIndex: 1
@@ -19622,6 +20016,96 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd8280e8c381fbd4bbcad4b7ee581c31, type: 3}
+--- !u!1001 &5436381292688830214
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1006834917}
+    m_Modifications:
+    - target: {fileID: 2552395399997379285, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2552395399997379285, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2552395399997379285, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2552395399997379285, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2552395399997379285, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2552395399997379285, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2552395399997379285, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2552395399997379285, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2552395399997379285, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2552395399997379285, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2726591588123831600, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: m_Name
+      value: Inventory
+      objectReference: {fileID: 0}
+    - target: {fileID: 6079360330695493737, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: _rigidbody
+      value: 
+      objectReference: {fileID: 1383171058}
+    - target: {fileID: 9032664893845131853, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 9032664893845131853, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.04
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+--- !u!114 &5436381292688830215 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6079360330695493737, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+  m_PrefabInstance: {fileID: 5436381292688830214}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06bd28341d3e86a4c8ab52b1a0269c7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &5436381292688830216 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2552395399997379285, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+  m_PrefabInstance: {fileID: 5436381292688830214}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &5436381292688830217 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5350981622744668936, guid: 204d9241bf5061749b44cb0d13e63afc, type: 3}
+  m_PrefabInstance: {fileID: 5436381292688830214}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &7079690333416248134 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5414912244175512723, guid: 60fa00281e83b294583adc31df520fbe, type: 3}
@@ -20601,6 +21085,7 @@ SceneRoots:
   - {fileID: 705507995}
   - {fileID: 1808790778611120804}
   - {fileID: 3779725044559680324}
+  - {fileID: 784557372}
   - {fileID: 2982998299393685461}
   - {fileID: 1816412744}
   - {fileID: 1738974503}
@@ -20616,3 +21101,4 @@ SceneRoots:
   - {fileID: 1602067054}
   - {fileID: 966458615}
   - {fileID: 941912329}
+  - {fileID: 1383171062}
