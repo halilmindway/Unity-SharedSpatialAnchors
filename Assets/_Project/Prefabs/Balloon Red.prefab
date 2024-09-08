@@ -103,7 +103,7 @@ MonoBehaviour:
   buoyancyForce: 9.6
   gravityForce: 9.11
   upwardLimit: 8
-  popParticle: {fileID: 0}
+  popParticle: {fileID: 2555277162905436103}
   blastRadius: 5
   blastForce: 500
 --- !u!114 &2988318991867791659
@@ -313,6 +313,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eae05228d3432554f9ded08282423371, type: 3}
+--- !u!198 &2555277162905436103 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 7830802744855201605, guid: eae05228d3432554f9ded08282423371, type: 3}
+  m_PrefabInstance: {fileID: 5754107813594593410}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3574126393152220395 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 9098233961971537001, guid: eae05228d3432554f9ded08282423371, type: 3}

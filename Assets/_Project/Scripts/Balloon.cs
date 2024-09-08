@@ -68,7 +68,7 @@ namespace _Project.Scripts
             Debug.Log($"{gameObject.name} popped");
             ApplyBlastEffect();
             GameManager.Instance.RemoveBalloonFromList(this);
-            // popParticle.Play();
+            popParticle.Play();
             GetComponent<Renderer>().enabled = false;
             Destroy(gameObject, 1f);
         }
