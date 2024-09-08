@@ -12,6 +12,7 @@ namespace _Project.Scripts
         public List<Balloon> blueBalloons;
         [SerializeField] private BalloonSpawner balloonSpawner;
         public bool isGrabbing;
+        public static event Action<Type> OnGameFinished;
         public static event Action<Type, int> OnBalloonCountChanged;
 
         private void Start()
@@ -41,6 +42,27 @@ namespace _Project.Scripts
         private void DebugBalloonNumber(Type type, int count)
         {
             Debug.Log(Enum.GetName(typeof(Type), type) + " count: " + count);
+        }
+
+        private void CheckWinningSituation(Type type, int count)
+        {
+            if (count >= 1) return;
+            OnGameFinished?.Invoke(type);
+            Debug.Log(Enum.GetName(typeof(Type), type) + " won the game");
+            if (redBalloons.Count > 0)
+            {
+                foreach (var red in redBalloons)
+                {
+                    red.Pop(Type.Red);
+                }
+            }
+            else if (blueBalloons.Count > 0)
+            {
+                foreach (var blue in blueBalloons)
+                {
+                    blue.Pop(Type.Blue);
+                }
+            }
         }
 
         public void AddBalloonsToList(List<Balloon> balloons, Type type)
